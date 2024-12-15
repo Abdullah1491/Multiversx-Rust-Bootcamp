@@ -1,0 +1,1 @@
+C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\calculator\target\debug\Calculator.exe: C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\calculator\src\main.rs

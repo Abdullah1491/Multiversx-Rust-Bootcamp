@@ -1,0 +1,1 @@
+C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\ownership_concept\target\debug\Ownership_Concept.exe: C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\ownership_concept\src\main.rs
