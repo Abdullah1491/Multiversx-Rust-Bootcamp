@@ -1,0 +1,1 @@
+C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\basic_banking_system\target\debug\basic_banking_system.exe: C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\basic_banking_system\src\main.rs
