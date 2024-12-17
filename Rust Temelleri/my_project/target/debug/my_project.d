@@ -1,0 +1,1 @@
+C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\my_project\target\debug\my_project.exe: C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\my_project\src\main.rs
