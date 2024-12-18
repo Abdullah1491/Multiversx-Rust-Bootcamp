@@ -1,0 +1,1 @@
+C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\error_handling\target\debug\error_handling.exe: C:\Users\ABDULLAH\Masaüstü\Multiversx\ Rust\ Bootcamp\Rust\ Temelleri\error_handling\src\main.rs
